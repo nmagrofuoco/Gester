@@ -1,0 +1,245 @@
+{
+  "name": "Flat",
+  "subject": 42,
+  "date": null,
+  "paths": {
+    "Pen": {
+      "strokes":
+    [
+      {
+        "x": 30,
+        "y": 111,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 0,
+        "stroke_id": 0
+      },
+      {
+        "x": 29,
+        "y": 110,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1,
+        "stroke_id": 0
+      },
+      {
+        "x": 29,
+        "y": 112,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 2,
+        "stroke_id": 0
+      },
+      {
+        "x": 29,
+        "y": 119,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 3,
+        "stroke_id": 0
+      },
+      {
+        "x": 30,
+        "y": 127,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 4,
+        "stroke_id": 0
+      },
+      {
+        "x": 31,
+        "y": 132,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 5,
+        "stroke_id": 0
+      },
+      {
+        "x": 32,
+        "y": 135,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 6,
+        "stroke_id": 0
+      },
+      {
+        "x": 35,
+        "y": 136,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 7,
+        "stroke_id": 0
+      },
+      {
+        "x": 38,
+        "y": 137,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 8,
+        "stroke_id": 0
+      },
+      {
+        "x": 42,
+        "y": 139,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 9,
+        "stroke_id": 0
+      },
+      {
+        "x": 46,
+        "y": 140,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 10,
+        "stroke_id": 0
+      },
+      {
+        "x": 49,
+        "y": 142,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 11,
+        "stroke_id": 0
+      },
+      {
+        "x": 49,
+        "y": 145,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 12,
+        "stroke_id": 0
+      },
+      {
+        "x": 47,
+        "y": 149,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 13,
+        "stroke_id": 0
+      },
+      {
+        "x": 43,
+        "y": 154,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 14,
+        "stroke_id": 0
+      },
+      {
+        "x": 39,
+        "y": 157,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 15,
+        "stroke_id": 0
+      },
+      {
+        "x": 35,
+        "y": 159,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 16,
+        "stroke_id": 0
+      },
+      {
+        "x": 31,
+        "y": 161,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 17,
+        "stroke_id": 0
+      },
+      {
+        "x": 28,
+        "y": 165,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 18,
+        "stroke_id": 0
+      },
+      {
+        "x": 28,
+        "y": 165,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 19,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "Samsung Galaxy Note 10.1",
+    "resolutionHeight": 800,
+    "resolutionWidth": 1280,
+    "windowHeight": null,
+    "windowWidth": null,
+    "pixelRatio": 149,
+    "mouse": false,
+    "pen": true,
+    "finger": false,
+    "acceleration": false,
+    "webcam": false
+  }
+}

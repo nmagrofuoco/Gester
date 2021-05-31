@@ -1,0 +1,113 @@
+{
+  "name": "right_parenthesis",
+  "subject": 222,
+  "date": null,
+  "paths": {
+    "Pen": {
+      "strokes":
+    [
+      {
+        "x": 22352,
+        "y": 3167,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 41,
+        "stroke_id": 0
+      },
+      {
+        "x": 22374,
+        "y": 3198,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 42,
+        "stroke_id": 0
+      },
+      {
+        "x": 22391,
+        "y": 3228,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 43,
+        "stroke_id": 0
+      },
+      {
+        "x": 22411,
+        "y": 3269,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 44,
+        "stroke_id": 0
+      },
+      {
+        "x": 22420,
+        "y": 3311,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 45,
+        "stroke_id": 0
+      },
+      {
+        "x": 22425,
+        "y": 3363,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 46,
+        "stroke_id": 0
+      },
+      {
+        "x": 22420,
+        "y": 3408,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 47,
+        "stroke_id": 0
+      },
+      {
+        "x": 22409,
+        "y": 3452,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 48,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "HP TabletPC TC 1100, operated with Windows XP TabletPC Edition",
+    "resolutionHeight": 600,
+    "resolutionWidth": 800,
+    "windowHeight": null,
+    "windowWidth": null,
+    "pixelRatio": null,
+    "mouse": false,
+    "pen": true,
+    "finger": false,
+    "acceleration": false,
+    "webcam": false
+  }
+}

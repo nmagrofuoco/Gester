@@ -1,0 +1,113 @@
+{
+  "name": "line",
+  "subject": "11",
+  "date": null,
+  "paths": {
+    "Pen": {
+      "strokes":
+    [
+      {
+        "x": 21,
+        "y": 74,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005278,
+        "stroke_id": 0
+      },
+      {
+        "x": 143,
+        "y": 77,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005278,
+        "stroke_id": 0
+      },
+      {
+        "x": 147,
+        "y": 78,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005278,
+        "stroke_id": 0
+      },
+      {
+        "x": 154,
+        "y": 79,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005294,
+        "stroke_id": 0
+      },
+      {
+        "x": 157,
+        "y": 79,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005294,
+        "stroke_id": 0
+      },
+      {
+        "x": 159,
+        "y": 80,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005309,
+        "stroke_id": 0
+      },
+      {
+        "x": 160,
+        "y": 80,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005309,
+        "stroke_id": 0
+      },
+      {
+        "x": 160,
+        "y": 80,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302119005325,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": null,
+    "resolutionHeight": null,
+    "resolutionWidth": null,
+    "windowHeight": null,
+    "windowWidth": null,
+    "pixelRatio": null,
+    "mouse": false,
+    "pen": true,
+    "finger": false,
+    "acceleration": false,
+    "webcam": false
+  }
+}

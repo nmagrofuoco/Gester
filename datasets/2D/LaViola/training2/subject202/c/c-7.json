@@ -1,0 +1,146 @@
+{
+  "name": "c",
+  "subject": 202,
+  "date": null,
+  "paths": {
+    "Pen": {
+      "strokes":
+    [
+      {
+        "x": 12572,
+        "y": 8049,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 95,
+        "stroke_id": 0
+      },
+      {
+        "x": 12558,
+        "y": 8057,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 96,
+        "stroke_id": 0
+      },
+      {
+        "x": 12544,
+        "y": 8067,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 97,
+        "stroke_id": 0
+      },
+      {
+        "x": 12521,
+        "y": 8073,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 98,
+        "stroke_id": 0
+      },
+      {
+        "x": 12510,
+        "y": 8091,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 99,
+        "stroke_id": 0
+      },
+      {
+        "x": 12492,
+        "y": 8102,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 100,
+        "stroke_id": 0
+      },
+      {
+        "x": 12486,
+        "y": 8119,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 101,
+        "stroke_id": 0
+      },
+      {
+        "x": 12480,
+        "y": 8140,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 102,
+        "stroke_id": 0
+      },
+      {
+        "x": 12517,
+        "y": 8152,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 103,
+        "stroke_id": 0
+      },
+      {
+        "x": 12542,
+        "y": 8151,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 104,
+        "stroke_id": 0
+      },
+      {
+        "x": 12569,
+        "y": 8149,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 105,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "HP TabletPC TC 1100, operated with Windows XP TabletPC Edition",
+    "resolutionHeight": 600,
+    "resolutionWidth": 800,
+    "windowHeight": null,
+    "windowWidth": null,
+    "pixelRatio": null,
+    "mouse": false,
+    "pen": true,
+    "finger": false,
+    "acceleration": false,
+    "webcam": false
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "name": "integral",
+  "subject": 196,
+  "date": null,
+  "paths": {
+    "Pen": {
+      "strokes":
+    [
+      {
+        "x": 23044,
+        "y": 7226,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 302,
+        "stroke_id": 0
+      },
+      {
+        "x": 23042,
+        "y": 7202,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 303,
+        "stroke_id": 0
+      },
+      {
+        "x": 23040,
+        "y": 7180,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 304,
+        "stroke_id": 0
+      },
+      {
+        "x": 23034,
+        "y": 7136,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 305,
+        "stroke_id": 0
+      },
+      {
+        "x": 23027,
+        "y": 7113,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 306,
+        "stroke_id": 0
+      },
+      {
+        "x": 23022,
+        "y": 7094,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 307,
+        "stroke_id": 0
+      },
+      {
+        "x": 23003,
+        "y": 7070,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 308,
+        "stroke_id": 0
+      },
+      {
+        "x": 22966,
+        "y": 7075,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 309,
+        "stroke_id": 0
+      },
+      {
+        "x": 22956,
+        "y": 7098,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 310,
+        "stroke_id": 0
+      },
+      {
+        "x": 22942,
+        "y": 7126,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 311,
+        "stroke_id": 0
+      },
+      {
+        "x": 22930,
+        "y": 7168,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 312,
+        "stroke_id": 0
+      },
+      {
+        "x": 22916,
+        "y": 7210,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 313,
+        "stroke_id": 0
+      },
+      {
+        "x": 22909,
+        "y": 7263,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 314,
+        "stroke_id": 0
+      },
+      {
+        "x": 22902,
+        "y": 7310,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 315,
+        "stroke_id": 0
+      },
+      {
+        "x": 22897,
+        "y": 7358,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 316,
+        "stroke_id": 0
+      },
+      {
+        "x": 22895,
+        "y": 7417,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 317,
+        "stroke_id": 0
+      },
+      {
+        "x": 22895,
+        "y": 7474,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 318,
+        "stroke_id": 0
+      },
+      {
+        "x": 22892,
+        "y": 7528,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 319,
+        "stroke_id": 0
+      },
+      {
+        "x": 22898,
+        "y": 7582,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 320,
+        "stroke_id": 0
+      },
+      {
+        "x": 22901,
+        "y": 7633,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 321,
+        "stroke_id": 0
+      },
+      {
+        "x": 22907,
+        "y": 7683,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 322,
+        "stroke_id": 0
+      },
+      {
+        "x": 22914,
+        "y": 7737,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 323,
+        "stroke_id": 0
+      },
+      {
+        "x": 22917,
+        "y": 7796,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 324,
+        "stroke_id": 0
+      },
+      {
+        "x": 22916,
+        "y": 7842,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 325,
+        "stroke_id": 0
+      },
+      {
+        "x": 22914,
+        "y": 7884,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 326,
+        "stroke_id": 0
+      },
+      {
+        "x": 22907,
+        "y": 7922,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 327,
+        "stroke_id": 0
+      },
+      {
+        "x": 22895,
+        "y": 7959,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 328,
+        "stroke_id": 0
+      },
+      {
+        "x": 22880,
+        "y": 7990,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 329,
+        "stroke_id": 0
+      },
+      {
+        "x": 22865,
+        "y": 8017,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 330,
+        "stroke_id": 0
+      },
+      {
+        "x": 22851,
+        "y": 8035,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 331,
+        "stroke_id": 0
+      },
+      {
+        "x": 22835,
+        "y": 8045,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 332,
+        "stroke_id": 0
+      },
+      {
+        "x": 22818,
+        "y": 8048,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 333,
+        "stroke_id": 0
+      },
+      {
+        "x": 22789,
+        "y": 8020,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 334,
+        "stroke_id": 0
+      },
+      {
+        "x": 22782,
+        "y": 8001,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 335,
+        "stroke_id": 0
+      },
+      {
+        "x": 22771,
+        "y": 7960,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 336,
+        "stroke_id": 0
+      },
+      {
+        "x": 22768,
+        "y": 7938,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 337,
+        "stroke_id": 0
+      },
+      {
+        "x": 22773,
+        "y": 7922,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 338,
+        "stroke_id": 0
+      },
+      {
+        "x": 22777,
+        "y": 7882,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 339,
+        "stroke_id": 0
+      },
+      {
+        "x": 22781,
+        "y": 7865,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 340,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": "HP TabletPC TC 1100, operated with Windows XP TabletPC Edition",
+    "resolutionHeight": 600,
+    "resolutionWidth": 800,
+    "windowHeight": null,
+    "windowWidth": null,
+    "pixelRatio": null,
+    "mouse": false,
+    "pen": true,
+    "finger": false,
+    "acceleration": false,
+    "webcam": false
+  }
+}

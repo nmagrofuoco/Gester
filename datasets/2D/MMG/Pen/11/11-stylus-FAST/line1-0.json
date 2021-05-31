@@ -1,0 +1,80 @@
+{
+  "name": "line",
+  "subject": "11",
+  "date": null,
+  "paths": {
+    "Pen": {
+      "strokes":
+    [
+      {
+        "x": 12,
+        "y": 73,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302118851134,
+        "stroke_id": 0
+      },
+      {
+        "x": 66,
+        "y": 72,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302118851134,
+        "stroke_id": 0
+      },
+      {
+        "x": 144,
+        "y": 76,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302118851134,
+        "stroke_id": 0
+      },
+      {
+        "x": 145,
+        "y": 77,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302118851150,
+        "stroke_id": 0
+      },
+      {
+        "x": 145,
+        "y": 77,
+        "w": null,
+        "z": null,
+        "alpha": null,
+        "beta": null,
+        "gamma": null,
+        "t": 1302118851150,
+        "stroke_id": 0
+      }
+    ]
+    }
+  },
+  "device": {
+    "osBrowserInfo": null,
+    "resolutionHeight": null,
+    "resolutionWidth": null,
+    "windowHeight": null,
+    "windowWidth": null,
+    "pixelRatio": null,
+    "mouse": false,
+    "pen": true,
+    "finger": false,
+    "acceleration": false,
+    "webcam": false
+  }
+}

@@ -1,0 +1,7 @@
+button {
+  margin: 17px auto;
+}
+
+button:disabled, button[disabled] {
+  pointer-events: none;
+}
