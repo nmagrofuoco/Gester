@@ -7,16 +7,19 @@ Gester is a single-page application developed for the gesture recognition commun
 ## Get Started
 1. Select and setup the relevant recognizers and evaluation procedures in the `config.js` file,
 2. Open the `index.html` page in Google Chrome,
-3. Setup the relevant parameters in the application interface,
-4. Import one or two datasets in the application,
-5. Load the datasets in memory,
-6. Start the evaluation procedures and wait for the results to be downloaded. In-progress logs are available in the developer console.
+3. Setup the relevant parameters and import one or two datasets into the application,
+4. Load the datasets in memory,
+5. Start the evaluation procedures and wait for the results to be downloaded. In-progress logs are available in the developer console.
 
 ## Evaluation Procedures
-1. *User-dependent dataset-dependent (uddd):* T samples per class are randomly selected for training (T), and one remaining sample per class is selected for testing. All samples are produced by the same end-user and chosen among the same dataset.
-2. *User-independent dataset-dependent (uidd):* T samples per class for each P independent participant are randomly selected for training (TxP), and one sample per class produced by another independent end-user is selected for testing. All samples are chosen among the same dataset.
-3. *User-dependent dataset-independent (uddi):* T samples per class are randomly selected for training (T), and one remaining sample per class is selected for testing. All samples are produced by the same end-user, but training and testing samples are chosen among the first and second dataset, respectively. Therefore, the results are reported for the testing participants from the second dataset.
-4. *User-independent dataset-independent (uidi):* T samples per class for each P independent participant are randomly selected for training (TxP), and one remaining sample per class produced by another independent end-user is selected for testing. Training and testing samples are chosen among the first and second dataset, respectively. Therefore, the results are reported for the testing participants from the second dataset.
+1. __User-dependent dataset-dependent (uddd):__
+T samples per class are randomly selected for training (T), and one remaining sample per class is selected for testing. All samples are produced by the same end-user and chosen among the same dataset.
+2. __User-independent dataset-dependent (uidd):__
+T samples per class for each P independent participant are randomly selected for training (TxP), and one sample per class produced by another independent end-user is selected for testing. All samples are chosen among the same dataset.
+3. __User-dependent dataset-independent (uddi):__
+T samples per class are randomly selected for training (T), and one remaining sample per class is selected for testing. All samples are produced by the same end-user, but training and testing samples are chosen among the first and second dataset, respectively. Therefore, the results are reported for the testing participants from the second dataset.
+4. __User-independent dataset-independent (uidi):__
+T samples per class for each P independent participant are randomly selected for training (TxP), and one remaining sample per class produced by another independent end-user is selected for testing. Training and testing samples are chosen among the first and second dataset, respectively. Therefore, the results are reported for the testing participants from the second dataset.
 
 ## License
 The academic publication for Gester, and what should be used to cite it, is:
